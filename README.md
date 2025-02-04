@@ -52,7 +52,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusherbhakta&theme=vision_friendly_dark" style="margin-right: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusherbhakta&theme=vision_friendly_dark">
 </div>
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tusherbhakta&theme=dark)](https://git.io/streak-stats)
 <br/>
 <br/>
 
