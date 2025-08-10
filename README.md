@@ -7,7 +7,11 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, Tusher Bhakta</h1>
-<h3 align="left">I am a B.Tech student at KIIT University, graduating in 2025, with a passion for full-stack web development. I’ve gained expertise in HTML, CSS, JavaScript, Tailwind CSS, React, Node.js, Express.js, and MongoDB. I also have experience with WordPress tools like Elementor and WPBakery, along with knowledge of MySQL. Additionally, I am skilled in programming languages such as C, C++, Java, and Python. I’m driven to learn and build impactful web and software applications.</h3>
+<h3 align="left">I am a B.Tech graduate from KIIT University (May 25, 2025) with a strong passion for full-stack web development and building impactful digital solutions. Since June 2025, I have been working as a Software Engineer Intern at Ayagro Technologies, where I contribute to developing scalable, user-friendly applications.
+
+My technical expertise spans HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, ShadCN, Node.js, Express.js, Redux and MongoDB, along with experience in WordPress using tools like Elementor and WPBakery. I am also proficient in MySQL and have a solid foundation in C, C++.
+
+I thrive on continuous learning, solving complex problems, and delivering clean, efficient code that drives real-world impact.</h3>
 <br/>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
