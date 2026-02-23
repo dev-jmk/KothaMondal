@@ -6,21 +6,21 @@
 
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, Tusher Bhakta</h1>
-<h3 align="left">I am a B.Tech graduate from KIIT University (May 25, 2025) with a strong passion for full-stack web development and building impactful digital solutions. Since June 2025, I have been working as a Software Engineer Intern at Ayagro Technologies, where I contribute to developing scalable, user-friendly applications.
+<h1 align="center">Hi 👋, I am Joyeta Mondal Kotha</h1>
+<h3 align="left">I am a B.Tech graduate from KIIT University (May 25, 2025) with a strong passion for full-stack web development and building impactful digital solutions. Since August 2025, I have been working as a Frontend Developer at Softvence Agency, BdCalling, where I contribute to developing scalable, user-friendly applications.
 
-My technical expertise spans HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, ShadCN, Node.js, Express.js, Redux and MongoDB, along with experience in WordPress using tools like Elementor and WPBakery. I am also proficient in MySQL and have a solid foundation in C, C++.
+My technical expertise spans HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, ShadCN, Node.js, Express.js, Redux Toolkit and MongoDB, along with experience in WordPress using tools like Elementor and WPBakery. I am also proficient in MySQL and have a solid foundation in C, C++.
 
 I thrive on continuous learning, solving complex problems, and delivering clean, efficient code that drives real-world impact.</h3>
 <br/>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://GitHub.com/tusherbhakta](https://github.com/tusherbhakta?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Kotha-Mondal](https://github.com/Kotha-Mondal?tab=repositories)
 
-- 💬 Ask me about **React, Node.js, Express.js, JavaScript, Java, Tailwind**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js, JavaScript, Java, Tailwind**
 
-- 📫 How to reach me **tusheranta@gmail.com**
+- 📫 How to reach me **kothamondal23@gmail.com**
 
 
 
@@ -30,7 +30,7 @@ I thrive on continuous learning, solving complex problems, and delivering clean,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusherbhakta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tusherbhakta) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusheranta@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/tusherbhakta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tusherbhakta)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyeta-mondal-kotha/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kothajoye1023) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kothamondal23@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1DZfJZosva/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joyeta_mk)
 
 </div>
 
@@ -45,33 +45,33 @@ I thrive on continuous learning, solving complex problems, and delivering clean,
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-direction: row;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusherbhakta&theme=vision_friendly_dark" style="margin-right: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusherbhakta&theme=vision_friendly_dark&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kothamondal&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kothamondal&theme=vision_friendly_dark&utcOffset=8">
 </div>
 
 <br/>
 <br/>
 
 <div style="display: flex; flex-direction: row;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusherbhakta&theme=vision_friendly_dark" style="margin-right: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusherbhakta&theme=vision_friendly_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kothamondal&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kothamondal&theme=vision_friendly_dark">
 </div>
 
 <br/>
 <br/>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=tusherbhakta&theme=dark" alt="GitHub Streak">
+    <img src="https://nirzak-streak-stats.vercel.app?user=kothamondal&theme=dark" alt="GitHub Streak">
   </a>
 </p>
 <br/>
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusherbhakta&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kothamondal&theme=vision_friendly_dark)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tusherbhakta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kothamondal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -79,11 +79,11 @@ I thrive on continuous learning, solving complex problems, and delivering clean,
 
 ### 🔝 Top Contributed Open Source Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=tusherbhakta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kothamondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tusherbhakta&icon=4&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kothamondal&icon=4&color=4)](https://visitcount.itsvg.in)
 
 
 
