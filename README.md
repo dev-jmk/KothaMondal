@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I am Joyeta Mondal Kotha</h1>
-<h3 align="left">I am a B.Tech graduate from KIIT University (May 25, 2025) with a strong passion for full-stack web development and building impactful digital solutions. Since August 2025, I have been working as a Frontend Developer at Softvence Agency, BdCalling, where I contribute to developing scalable, user-friendly applications.
+<h3 align="left">I am a B.Tech graduate in CSE from KIIT University (May 25, 2025) with a strong passion for full-stack web development and building impactful digital solutions. Since August 2025, I have been working as a Frontend Developer at Softvence Agency, BdCalling, where I contribute to developing scalable, user-friendly applications.
 
 My technical expertise spans HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, ShadCN, Node.js, Express.js, Redux Toolkit and MongoDB, along with experience in WordPress using tools like Elementor and WPBakery. I am also proficient in MySQL and have a solid foundation in C, C++.
 
